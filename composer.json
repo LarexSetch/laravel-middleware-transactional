@@ -2,6 +2,7 @@
   "name": "larexsetch/laravel-transactional",
   "description": "Decorates method as transactional",
   "type": "library",
+  "version": "1.0.0",
   "require": {
     "php": "^8.4",
     "illuminate/http": "^12.49",
@@ -30,5 +31,5 @@
       "email": "larexsetch@gmail.com"
     }
   ],
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
